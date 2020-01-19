@@ -1,4 +1,4 @@
-#Sentinel
+# Sentinel
 
 Final project of Advanced Topics In Software Engineering Course
 3rd Year of Computer Engineering, ESTG, IPLeiria, Leiria, Portugal
