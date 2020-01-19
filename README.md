@@ -1,10 +1,5 @@
-# TAESProject
+# Sentinel
 
-TAES Final Project
-3rd of Computer Engineering Course
-ESTG-IPleiria
-
-Francisco Silva (2171078)
-Nuno Querido (2161320)
-Henrique Santos (2171300)
-Tiago Parente (2170886)
+Final project of Advanced Topics In Software Engineering Course
+3rd Year of Computer Engineering, ESTG, IPLeiria, Leiria, Portugal
+Developed by [Francisco Silva](https://github.com/franciscomsilva), [Henrique Santos](https://github.com/henrique-mls) and [Tiago Parente](https://github.com/TiagoParente32);
